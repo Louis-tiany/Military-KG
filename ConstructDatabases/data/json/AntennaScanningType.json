@@ -1,0 +1,12 @@
+{"sequence":0,"name":"不明","Description":"未知"}
+{"sequence":1,"name":"圆周扫描","Description":"波束扫描包络呈周期性间隔出现"}
+{"sequence":2,"name":"水平扇扫","Description":"波束扫描包络呈周期性等间隔出现"}
+{"sequence":3,"name":"垂直扇扫","Description":"在垂直方向上，波束扫描包络以大小不等的两个周期相互间隔出现"}
+{"sequence":4,"name":"圆锥扫描","Description":"波束扫描包络呈正弦连续波调制，周期为即使至几百毫秒"}
+{"sequence":5,"name":"边搜索边跟踪","Description":"机械圆周扫描或水平扇扫中伴随有快速机电扫描"}
+{"sequence":6,"name":"随机波束指向","Description":"波束扫描无规律"}
+{"sequence":7,"name":"连续照射","Description":"波束扫描包络呈等幅连续波调制"}
+{"sequence":8,"name":"手动扫描","Description":"时而为随机扫描，时而为固定照射"}
+{"sequence":9,"name":"机电扫描","Description":"扫描周期为几十至几百毫秒的圆周或扇形扫描"}
+{"sequence":10,"name":"相位扫描","Description":"利用移相器改变天线孔径馈电相位分布，天线波束指向无惯性地快速改变"}
+{"sequence":11,"name":"复杂扫描","Description":"除了扫描类型以外的有规律复杂扫描"}

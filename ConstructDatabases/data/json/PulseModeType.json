@@ -1,0 +1,10 @@
+{"sequence":0,"name":"不明","Description":""}
+{"sequence":1,"name":"常规","Description":"脉内无调制"}
+{"sequence":2,"name":"非线性调频","Description":"脉内载频调制呈非线性"}
+{"sequence":3,"name":"线性调频","Description":"脉内载频调制呈线性"}
+{"sequence":4,"name":"二相编码","Description":"脉内载频起始相位调制为二相码"}
+{"sequence":5,"name":"四相编码","Description":"脉内载频起始相位调制为四相码"}
+{"sequence":6,"name":"脉内频率编码","Description":"脉内有多个子脉冲，各子脉冲均有自己的射频，相邻子脉冲的射频差值均大于1MHz"}
+{"sequence":7,"name":"脉内频率分集","Description":"脉冲内部有多个频率，并且各个频率在时域上完全重叠"}
+{"sequence":8,"name":"多次线性调频","Description":"在脉冲内部的不同时间区间上分别进行线性调频，每个区间首位相接，所以区间的并集是整个脉冲区间之间两两互不相交"}
+{"sequence":9,"name":"脉内复合调制","Description":"多种调制方式复合"}

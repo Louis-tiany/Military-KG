@@ -1,0 +1,9 @@
+{"sequence":0,"name":"不明","Description":""}
+{"sequence":1,"name":"脉宽固定","Description":"只有单个固定脉冲宽度"}
+{"sequence":2,"name":"脉宽分集","Description":"在每个重复周期起始，有多个在时间上有部分重叠的脉冲"}
+{"sequence":3,"name":"脉宽捷变","Description":"脉冲宽度在脉间或者脉组间变化"}
+{"sequence":4,"name":"连续波","Description":""}
+{"sequence":5,"name":"双脉冲","Description":"每个重复周期起始，均有间隔为几微秒或者几十个微秒的两个脉冲组成的脉冲组"}
+{"sequence":6,"name":"多脉冲","Description":"每个重复周期起始，均有间隔为几微秒或者几十个微秒的三个或三个以上脉冲组成的脉冲组"}
+{"sequence":7,"name":"复合","Description":"由两个或多个明确的脉冲类型复合组成的复杂脉冲类型"}
+{"sequence":8,"name":"脉宽可选择","Description":"脉宽由多个参数值，每个值的持续时间大于1s"}

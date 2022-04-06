@@ -1,0 +1,9 @@
+{"sequence":0,"name":"不明","Description":"未识别或者未被告知"}
+{"sequence":1,"name":"单一射频","Description":"射频变化范围不超过1MHz"}
+{"sequence":2,"name":"射频可选择","Description":"有多个参数值，但不在脉间，脉冲组同时工作"}
+{"sequence":3,"name":"频率分集","Description":"射频在脉冲内或脉间、脉组间同时具有多个参数值，且参数间间隔均大于3MHz"}
+{"sequence":4,"name":"射频脉间捷变","Description":"一个脉冲重复间隔的射频和下一个脉冲重复间隔的射频发生捷变"}
+{"sequence":5,"name":"射频脉组捷变","Description":"一个脉组的射频和下一个脉组的射频发生捷变"}
+{"sequence":6,"name":"射频调频","Description":"射频按照一定规律调制的连续波信号"}
+{"sequence":7,"name":"射频复合","Description":"由两个或多个明确的射频类型复合"}
+{"sequence":8,"name":"噪声调制","Description":"在一定频段上射频呈噪声调制"}

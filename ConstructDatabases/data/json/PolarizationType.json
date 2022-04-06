@@ -1,0 +1,14 @@
+{"sequence":0,"name":"不明","Description":"未识别"}
+{"sequence":1,"name":"左旋圆极化","Description":"在同一周期内，电场矢量端点在垂直于电磁波传播方向的平面上的轨迹是一个左旋圆"}
+{"sequence":2,"name":"右旋圆极化","Description":"在同一周期内，电场适量端点在垂直于电磁波传播方向的平面上的轨迹是一个右旋圆"}
+{"sequence":3,"name":"垂直极化","Description":"发射信号时，其无线电波的震动方向是垂直方向"}
+{"sequence":4,"name":"水平极化","Description":"发射信号是，其无线电波的震动方向是水平方向"}
+{"sequence":5,"name":"斜极化","Description":"能接收/发射垂直极化波进而水平极化波"}
+{"sequence":6,"name":"左旋椭圆极化","Description":"在同一周期内，电场矢量断电在垂直于电磁波传播方向的平面上的轨迹是一个左椭圆"}
+{"sequence":7,"name":"右旋椭圆极化","Description":"在同一周期内，电场矢量断电在垂直于电磁波传播方向的平面上的轨迹是一个右椭圆"}
+{"sequence":8,"name":"变极化","Description":"针对干扰信号极化方向而改变天线极化方向，使天线极化与干扰信号极化保持正交，从而使干扰影响降到最小的一种反干扰技术"}
+{"sequence":9,"name":"极化可选择","Description":"变极化的一种方式"}
+{"sequence":10,"name":"极化编码","Description":"变极化的一种方式"}
+{"sequence":11,"name":"极化捷变","Description":"变极化的一种方式，发射或接收信号的极化以某种方式快速变化"}
+{"sequence":12,"name":"极化分集","Description":"变极化的一种方式"}
+{"sequence":13,"name":"交叉极化","Description":"变极化的一种方式"}

@@ -1,0 +1,9 @@
+{"sequence":0,"name":"不明","Description":""}
+{"sequence":1,"name":"重复间隔固定","Description":""}
+{"sequence":2,"name":"重复间隔抖动","Description":"PRI在脉间或脉组间抖动"}
+{"sequence":3,"name":"脉间参差","Description":"PRI在脉间变化"}
+{"sequence":4,"name":"脉组参差","Description":"PRI在脉组间变化"}
+{"sequence":5,"name":"滑变","Description":"PRI按照一定规律递增或者递减"}
+{"sequence":6,"name":"脉冲多普勒","Description":"PRI值小于等于120us"}
+{"sequence":7,"name":"复合","Description":"由两个或多个明确的脉冲重复间隔类型复合组成"}
+{"sequence":8,"name":"脉冲重复间隔可选择","Description":"可由多个参数值，但是不在脉间脉冲组内同时工作"}
